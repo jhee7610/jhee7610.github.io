@@ -21,12 +21,96 @@
   },
   {
     "copy": "personal",
-    "image": "https://jhee7610.github.io/myapi/porftolio-project-img/proj_10.png",
+    "image": "https://jhee7610.github.io/myapi/porftolio-project-img/proj_09.png",
     "title": "Portfolio (2022 ver)",
     "description": "개인 포트폴리오 사이트입니다.",
     "period": "2022",
     "contribution": "디자인, 퍼블리싱 100%",
     "tags": ["HTML", "CSS", "jQuery", "lightbox-js"],
     "site": "https://jhee7610.github.io/portfolio/"
+  },
+  {
+    "copy": "company",
+    "image": "https://jhee7610.github.io/myapi/porftolio-project-img/proj_08.png",
+    "title": "동현세이프",
+    "description": "그누보드를 사용하여 구축한 동현세이프 홈페이지입니다.",
+    "period": "2021.07 - 2021.08",
+    "contribution": "기획,디자인, 퍼블리싱 100%",
+    "tags": ["HTML", "CSS", "jQuery", "gnuboard"],
+    "site": "http://dhsafety.biz/"
+  },
+  {
+    "copy": "company",
+    "image": "https://jhee7610.github.io/myapi/porftolio-project-img/proj_07.png",
+    "title": "(주)도트라지",
+    "description": "제로보드를 사용하여 구축한 (주)도트라지 홈페이지입니다.",
+    "period": "2021.03 - 2021.04",
+    "contribution": "기획,디자인, 퍼블리싱 100%",
+    "tags": ["HTML", "CSS", "jQuery", "XE"],
+    "site": "http://dotrazi.com/"
+  },
+  {
+    "copy": "company",
+    "image": "https://jhee7610.github.io/myapi/porftolio-project-img/proj_06.png",
+    "title": "플루오린코리아",
+    "description": "그누보드를 사용하여 구축한 플루오린코리아 홈페이지입니다.",
+    "period": "2021.01 - 2021.03",
+    "contribution": "기획,디자인, 퍼블리싱 100%",
+    "tags": ["HTML", "CSS", "jQuery", "gnuboard"],
+    "site": "https://www.fluorinekorea.com/"
+  },
+  {
+    "copy": "company",
+    "image": "https://jhee7610.github.io/myapi/porftolio-project-img/proj_05.png",
+    "title": "엑스코어마린",
+    "description": "그누보드를 사용하여 구축한 엑스코어마린 홈페이지입니다.",
+    "period": "2021",
+    "contribution": "기획,디자인, 퍼블리싱 100%",
+    "tags": ["HTML", "CSS", "jQuery", "gnuboard"]
+  },
+  {
+    "copy": "company",
+    "image": "https://jhee7610.github.io/myapi/porftolio-project-img/proj_04.png",
+    "title": "동현테크",
+    "description": "그누보드를 사용하여 구축한 동현테크 홈페이지입니다.",
+    "period": "2021",
+    "contribution": "기획,디자인, 퍼블리싱 100%",
+    "tags": ["HTML", "CSS", "jQuery", "gnuboard"]
+  },
+  {
+    "copy": "company",
+    "image": "https://jhee7610.github.io/myapi/porftolio-project-img/proj_03.png",
+    "title": "더 세인 주식회사",
+    "description": "그누보드를 사용하여 구축한 더 세인 주식회사 홈페이지입니다.",
+    "period": "2021",
+    "contribution": "기획,디자인, 퍼블리싱 100%",
+    "tags": ["HTML", "CSS", "jQuery", "gnuboard"]
+  },
+  {
+    "copy": "personal",
+    "image": "https://jhee7610.github.io/myapi/porftolio-project-img/proj_02.png",
+    "title": "비짓부산",
+    "description": "NCS 과정 수강 중 비짓부산의 메인 페이지를 제작하였습니다.",
+    "period": "2020",
+    "contribution": "기획,디자인, 퍼블리싱 100%",
+    "tags": ["HTML", "CSS", "jQuery", "swiper-js", "bxslider-js"],
+    "site": "https://jhee7610.github.io/portfolio/page/work/visitbusan/index.html"
+  },
+  {
+    "copy": "personal",
+    "image": "https://jhee7610.github.io/myapi/porftolio-project-img/proj_02.png",
+    "title": "Point of Things",
+    "description": "NCS 과정 수강 중 만든 가상의 쇼핑몰입니다.",
+    "period": "2020",
+    "contribution": "기획,디자인, 퍼블리싱 100%",
+    "tags": ["HTML", "CSS", "jQuery", "kxbdmarquee-js"],
+    "site": [
+      {
+        "proposal": "https://jhee7610.github.io/portfolio/page/work/pot/pot_plan.pdf",
+        "main1": "https://jhee7610.github.io/portfolio/page/work/pot/index.html",
+        "sub1": "https://jhee7610.github.io/portfolio/page/work/pot/sub/sub.html",
+        "sub2": "https://jhee7610.github.io/portfolio/page/work/pot/detail/detail.html"
+      }
+    ]
   }
 ]
