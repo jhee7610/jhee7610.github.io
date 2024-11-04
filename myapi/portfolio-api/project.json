@@ -109,10 +109,10 @@
     "tags": ["HTML", "CSS", "jQuery", "kxbdmarquee-js"],
     "site": [
       {
-        "proposal": "https://jhee7610.github.io/portfolio/page/work/pot/pot_plan.pdf",
-        "main1": "https://jhee7610.github.io/portfolio/page/work/pot/index.html",
-        "sub1": "https://jhee7610.github.io/portfolio/page/work/pot/sub/sub.html",
-        "sub2": "https://jhee7610.github.io/portfolio/page/work/pot/detail/detail.html"
+        "url1": "https://jhee7610.github.io/portfolio/page/work/pot/pot_plan.pdf",
+        "url2": "https://jhee7610.github.io/portfolio/page/work/pot/index.html",
+        "url3": "https://jhee7610.github.io/portfolio/page/work/pot/sub/sub.html",
+        "url4": "https://jhee7610.github.io/portfolio/page/work/pot/detail/detail.html"
       }
     ]
   }
