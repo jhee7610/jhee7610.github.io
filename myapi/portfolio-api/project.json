@@ -1,0 +1,32 @@
+[
+  {
+    "copy": "company",
+    "image": "https://jhee7610.github.io/myapi/porftolio-project-img/proj_11.png",
+    "title": "경상남도교육청 통합누리집 개편",
+    "description": "경상남도교육청 통합 누리집 개편 프로젝트입니다.",
+    "period": "2023.06 - 2024.02",
+    "contribution": "퍼블리싱 50%",
+    "tags": ["HTML", "CSS", "jQuery", "openworks4"],
+    "report": "https://jhee7610.notion.site/d7fc8c8e33974f76b12b8326eaab4461"
+  },
+  {
+    "copy": "company",
+    "image": "https://jhee7610.github.io/myapi/porftolio-project-img/proj_10.png",
+    "title": "울산교육 행정기관 통합누리집 구축",
+    "description": "울산교육 행정기관 통합누리집 구축 프로젝트입니다.",
+    "period": "2023.04 - 2024.01",
+    "contribution": "퍼블리싱 50%",
+    "tags": ["HTML", "CSS", "jQuery", "openworks4"],
+    "report": "https://jhee7610.notion.site/ada6fdcd042a40a8ac46aa2d57aafbbd"
+  },
+  {
+    "copy": "personal",
+    "image": "https://jhee7610.github.io/myapi/porftolio-project-img/proj_10.png",
+    "title": "Portfolio (2022 ver)",
+    "description": "개인 포트폴리오 사이트입니다.",
+    "period": "2022",
+    "contribution": "디자인, 퍼블리싱 100%",
+    "tags": ["HTML", "CSS", "jQuery", "lightbox-js"],
+    "site": "https://jhee7610.github.io/portfolio/"
+  }
+]
