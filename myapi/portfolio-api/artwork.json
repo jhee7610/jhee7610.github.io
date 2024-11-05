@@ -1,17 +1,92 @@
 [
   {
-    "src": "https://jhee7610.github.io/myapi/portfolio-artwork-img/banner-1.jpg",
-    "width": 800,
-    "height": 600
+    "src": "https://jhee7610.github.io/myapi/portfolio-artwork-img/banner_08.jpg",
+    "width": 1480,
+    "height": 656
   },
   {
-    "src": "https://jhee7610.github.io/myapi/portfolio-artwork-img/banner-2.jpg",
-    "width": 800,
-    "height": 600
+    "src": "https://jhee7610.github.io/myapi/portfolio-artwork-img/banner_07.jpg",
+    "width": 1480,
+    "height": 656
   },
   {
-    "src": "https://jhee7610.github.io/myapi/portfolio-artwork-img/banner-3.jpg",
+    "src": "https://jhee7610.github.io/myapi/portfolio-artwork-img/banner_06.jpg",
+    "width": 1800,
+    "height": 540
+  },
+  {
+    "src": "https://jhee7610.github.io/myapi/portfolio-artwork-img/banner_05.jpg",
+    "width": 1800,
+    "height": 540
+  },
+  {
+    "src": "https://jhee7610.github.io/myapi/portfolio-artwork-img/banner_04.jpg",
+    "width": 1800,
+    "height": 540
+  },
+  {
+    "src": "https://jhee7610.github.io/myapi/portfolio-artwork-img/banner_03.jpg",
+    "width": 1800,
+    "height": 540
+  },
+  {
+    "src": "https://jhee7610.github.io/myapi/portfolio-artwork-img/banner_02.jpg",
+    "width": 1800,
+    "height": 5400
+  },
+  {
+    "src": "https://jhee7610.github.io/myapi/portfolio-artwork-img/webcon_10.jpg",
+    "width": 214,
+    "height": 128
+  },
+  {
+    "src": "https://jhee7610.github.io/myapi/portfolio-artwork-img/webcon_09.jpg",
+    "width": 500,
+    "height": 469
+  },
+  {
+    "src": "https://jhee7610.github.io/myapi/portfolio-artwork-img/webcon_08.jpg",
     "width": 800,
-    "height": 600
+    "height": 729
+  },
+  {
+    "src": "https://jhee7610.github.io/myapi/portfolio-artwork-img/webcon_07.jpg",
+    "width": 226,
+    "height": 226
+  },
+  {
+    "src": "https://jhee7610.github.io/myapi/portfolio-artwork-img/webcon_06.jpg",
+    "width": 226,
+    "height": 226
+  },
+  {
+    "src": "https://jhee7610.github.io/myapi/portfolio-artwork-img/webcon_05.jpg",
+    "width": 1440,
+    "height": 918
+  },
+  {
+    "src": "https://jhee7610.github.io/myapi/portfolio-artwork-img/banner_01.jpg",
+    "width": 1440,
+    "height": 500
+  },
+  {
+    "src": "https://jhee7610.github.io/myapi/portfolio-artwork-img/webcon_04.jpg",
+    "width": 500,
+    "height": 500
+  },
+  {
+    "src": "https://jhee7610.github.io/myapi/portfolio-artwork-img/webcon_03.jpg",
+    "width": 500,
+    "height": 500
+  },
+  {
+    "src": "https://jhee7610.github.io/myapi/portfolio-artwork-img/webcon_02.jpg",
+    "width": 1050,
+    "height": 700
+  },
+  {
+    "src": "https://jhee7610.github.io/myapi/portfolio-artwork-img/webcon_01.jpg",
+    "width": 1050,
+    "height": 700
   }
 ]
